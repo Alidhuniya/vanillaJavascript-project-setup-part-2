@@ -77,30 +77,3 @@ header {
   margin-bottom: 3rem;
   font-size: 2rem;
 }
-
-#content {
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-  align-items: center;
-}
-
-#content1 {
-  font-size: 3rem;
-  color: goldenrod;
-}
-
-#content2 {
-  color: firebrick;
-  font-size: 1.5rem;
-  max-width: 50ch;
-  margin-top: 3rem;
-  margin-bottom: 5rem;
-}
-
-#footer {
-  display: flex;
-  justify-content: center;
-  color: indigo;
-  margin-bottom: 2rem;
-}

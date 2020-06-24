@@ -1,9 +1,7 @@
-export const  Content = () => {
+export const Content = () => {
+  let para1 = "About me";
 
-let para1 = "About me";
-
-return `
+  return `
 <h3>Section: ${para1}</h3>
-`
-
-}
+`;
+};

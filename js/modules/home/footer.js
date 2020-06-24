@@ -1,5 +1,5 @@
 export class Footer {
-    constructor(copyRight) {
-        this.copyRight = copyRight;
-    }
+  constructor(copyRight) {
+    this.copyRight = copyRight;
+  }
 }
